@@ -8,13 +8,18 @@
  <a href="https://developers.google.com/profile/u/100932032385794040399?authuser=2"><img title="Google Developer Profile" src="https://img.shields.io/badge/Developers%20Google-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>
  <a href="https://www.upwork.com/freelancers/~01159836a188a2fe31?viewMode=1"><img title="Upwork Profile" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/></a>   
  <a href="https://www.freelancer.com/u/aliimran2k"><img title="Freelancer.com Profile" src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white"/></a>
-    <a href="https://www.hackerrank.com/Aliimran_6"><img title="Hacker Rank Profile" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-  </p>
+ <a href="https://www.hackerrank.com/Aliimran_6"><img title="Hacker Rank Profile" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+<a href="https://github.com/aliirns"><img title="Another Github Account" src="https://img.shields.io/badge/another-account-github?link=https%3A%2F%2Fgithub.com%2Faliirns"/></a>  
+</p>
   
 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aliimran2000&show_icons=true">
 </p>
+
+
+
+
 
 
